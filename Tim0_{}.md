@@ -88,11 +88,13 @@ timezone: Pacific/Auckland # 新西兰标准时间 (UTC+12)
 
 ---
 
-# {你的名字}
+# {Tim0}
 1. 自我介绍
+BUPT大四学生，zk小白。
 2. 你认为你会完成本次残酷学习吗？
+会完成
 3. 目前阶段对于 ZK 的了解？
-
+还是小白不是很了解
 ## Notes
 
 <!-- Content_START -->
